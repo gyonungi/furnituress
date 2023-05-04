@@ -1,0 +1,155 @@
+@media (max-width: 767px){
+    .center{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .head-top{
+        padding-top: 32px;
+    }
+    .header-input{
+        display: none;
+    }
+    .menu{
+        display: none;
+        &-mob{
+            display: flex;
+            align-items: center;
+            gap: 32px;         
+        }
+    }
+    .logo-top{
+        &-img{
+            width: 99px;
+        }
+        }
+        .first-top{
+            font-size: 48px;
+            line-height: 59px;
+            text-align: center;
+        }
+        .top{
+            &-text{
+                font-size: 16px;
+                line-height: 32px;
+                text-align: center;
+            }
+           
+        }
+            .catalog-link{
+                font-size: 14px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .box-head{
+                font-size: 24px;
+                line-height: 29px;
+            }
+            .for-main{
+                grid-template-columns: repeat(4, 1fr);
+                gap: 16px;
+                &-card{
+                    grid-column: 1 / -1;
+                    height: 375px;
+                    font-size: 28px;
+                    line-height: 34px;
+                    text-align: center;
+                    &-big{
+                        width: 244px;
+                    }
+                }
+            }
+            .spec-head{
+                font-size: 24px;
+                line-height: 29px;
+            }
+            .card-title{
+                font-size: 18px;
+                line-height: 22px;
+                &-price{
+                    font-size: 18px;
+                    line-height: 22px;
+                }
+                &-price{
+                    height: 26px;
+                    left: 16px;
+                }
+            }
+            .footer{
+                padding-bottom: 32px;
+                &-content{
+                    justify-content: center;
+                    gap: 34px;
+                }
+                &-info{
+                    gap: 100px;
+                }
+            }
+            .main-catalog-text{
+                padding-bottom: 32px;
+            }
+            .choice-position{
+                display: grid;
+                margin-left: -6px;
+                background: url(/img/catalog-arrow.svg) no-repeat right;
+                background-position-x: calc(100% - 10px);
+                background-repeat: no-repeat;
+                
+            }
+            .card-noprice-mob{
+                display: block;
+                font-style: normal;
+                 font-weight: 500;
+                font-size: 18px;
+                line-height: 22px;
+            }
+            .card-price{
+                
+                font-style: normal;
+                 font-weight: 500;
+                font-size: 18px;
+                line-height: 22px;
+            }
+            .cart-name-box{
+                display: none;
+            }
+            .cart-card-img{
+                display: none;
+            }
+            .cart-info-top{
+                font-size: 18px;
+                line-height: 22px;
+            }
+            .cart-info-text{
+                font-size: 12px;
+                line-height: 15px;
+            }
+                .cart-button-text-2{
+                    background: black;
+                    color: #ffffff;
+                }
+                .cart-form{
+                    width: 290px;
+                }
+                .cart-top-form{
+                    width: 275px;
+                }
+                .cart-form-line{
+                    width: 230px;
+                }
+                .cart-form-line-end{
+                    width: 230px;
+                }
+                .cart-form-price{
+                    font-weight: bold;
+                    font-size: 20px;
+                    line-height: 29px;
+                    display: flex;
+                    align-items: center;
+                    text-align: center;
+                }
+                .cart-button-bottom{
+                    width: 300px;
+                }
+    }
+    

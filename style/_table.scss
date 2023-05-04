@@ -1,0 +1,45 @@
+@media (max-width: 1024px ){
+    .center{
+        padding-left: calc(50% - 393px);
+        padding-right: calc(50% - 393px);
+    }
+    .for{
+        &-card{
+            height: 268px;
+        }
+        &-main{
+            row-gap: 30px;
+        }
+    }
+    .card-content{
+        column-gap: 29px;
+        row-gap: 39px;
+    }
+    .spec-card{
+        column-gap: 29px;
+    }
+    .logo-footer{
+        display: none;
+    }
+    .catalog-top-texts{
+        margin-right: 55px;
+    }
+    .choice-position{
+        position: absolute;
+        margin-left: 251px;
+        background: url(/img/catalog-arrow.svg) no-repeat right;
+        background-position-x: calc(100% - 15px);
+        background-repeat: no-repeat;
+    }
+    .cart{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media (min-width:768px) and (max-width: 833px){
+    .center{
+        padding-right: 24px;
+        padding-left: 24px;
+    }
+    
+}
