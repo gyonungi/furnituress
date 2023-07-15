@@ -1,1 +1,10 @@
-# furnituress
+![Снимок](https://github.com/gyonungi/furnituress/assets/104500843/f327b5cc-6c0d-4374-b29d-fb20825b3424)
+![image](https://github.com/gyonungi/furnituress/assets/104500843/5260cf0e-0de0-431e-a008-e258c220034e)
+![3к](https://github.com/gyonungi/furnituress/assets/104500843/095df283-a3cd-458d-8216-a24fb0b864de)
+![4ок](https://github.com/gyonungi/furnituress/assets/104500843/a4e788be-74ae-4566-97b7-119aa6f3b43d)
+![5ок](https://github.com/gyonungi/furnituress/assets/104500843/d2878165-bc93-4a98-805e-45345d93452f)
+![6к](https://github.com/gyonungi/furnituress/assets/104500843/e0bec27b-4b93-467f-8268-c633475327bf)
+![7мок](https://github.com/gyonungi/furnituress/assets/104500843/3f71a212-0c09-4e04-826c-ccac82a5ab20)
+![7ок](https://github.com/gyonungi/furnituress/assets/104500843/da7b964e-d038-4161-bdce-d4e6a9cf8cf9)
+![8ок](https://github.com/gyonungi/furnituress/assets/104500843/cb5bdaba-e3ae-4477-bda2-9926fa89fa9d)
+![9к](https://github.com/gyonungi/furnituress/assets/104500843/79d22701-efac-41e5-b968-2e7b829f1341)
